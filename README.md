@@ -47,13 +47,12 @@ This lack of structured information makes it difficult to make informed decision
 This project will use available datasets (such as Yelp and other supporting sources) to analyze restaurant performance, customer feedback, and market conditions in order to identify patterns and potential opportunities.
 
 ## Data Sources
-(esto lo completarás luego)
+
 
 ## Methodology
-(por ahora vacío o bullet points)
+
 
 ## Insights
-(vacío por ahora)
 
 ## Conclusions
-(vacío)
+
