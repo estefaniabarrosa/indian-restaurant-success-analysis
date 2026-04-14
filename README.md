@@ -1,58 +1,118 @@
-# indian-restaurant-success-analysis-berlin
-## Data-driven analysis of restaurant performance and customer behavior in Berlin using Yelp data.
+# indian-food-truck-market-analysis-bangalore
 
-# Restaurant Customer Insights – Berlin
+## Data-driven analysis of restaurant competition and high-traffic areas in Bangalore to identify the best location for launching an Indian food truck.
+
+---
 
 ## Project Overview
-This project aims to conduct a data-driven market research analysis to evaluate the feasibility of launching an Indian food truck in Germany.
 
-This analysis will combine structured data (ratings, prices, number of restaurants) with qualitative insights from customer reviews.
+This project aims to conduct a data-driven market research analysis to identify the most promising areas in Bangalore for launching an Indian food truck.
 
-The analysis focuses on comparing different cities — with a primary emphasis on Berlin due to data availability — to understand market demand, competition, and customer preferences in the restaurant industry.
+The analysis combines structured restaurant data with location-based insights to understand market conditions, competition, and potential customer demand.
 
-Using datasets such as Yelp and other potential sources (e.g., Google Trends, official statistics, and open data portals), the project will explore key factors including:
+The project focuses on Bangalore as a case study, leveraging real restaurant data and external APIs to evaluate where a food truck could succeed.
 
-Customer ratings and reviews
+Key factors analyzed include:
 
-Restaurant density and competition
+- Restaurant density and competition  
+- Customer ratings and satisfaction  
+- Pricing patterns and affordability  
+- High-traffic areas (e.g., metro stations, tech parks)  
+- Indicators of demand and consumer behavior  
 
-Pricing patterns
+---
 
-Indicators of demand and consumer behavior
+## Goal
 
- Goal:
-Identify potential opportunities and challenges for entering the market, and generate actionable insights that could support decision-making for a future food truck business.
+Identify high-potential locations and market opportunities for launching an Indian food truck, and provide actionable insights to support a data-driven business decision.
 
-Scope Limitation:
+---
 
-Due to time and data constraints, the analysis will focus primarily on Berlin as a case study, with limited comparison to other cities where data is available
+## Scope Limitation
+
+Due to time and data constraints, the analysis focuses on Bangalore as a single case study.
+
+The findings are based on available datasets and may not capture all real-world variables (e.g., permits, operational costs, or real-time foot traffic).
+
+---
 
 ## Business Goal
-The goal of this project is to evaluate the viability of launching an Indian food truck in Germany by analyzing market demand, competition, and customer preferences using data-driven insights.
+
+The goal of this project is to evaluate the viability of launching an Indian food truck in Bangalore by analyzing market demand, competition, pricing, and customer preferences.
+
+---
 
 ## Problem Statement
-Aspiring food entrepreneurs often lack clear, data-driven insights to determine whether a specific food concept — such as an Indian food truck — can succeed in a given market.
 
-In the case of Germany, there is limited visibility into:
+Aspiring food entrepreneurs often lack clear, data-driven insights to determine where to launch a food business and how to position it in a competitive market.
 
-where demand for Indian food is strongest
+In the case of Bangalore, key challenges include:
 
-how competitive the market is across different cities
+- identifying areas with strong customer demand  
+- understanding the level of restaurant competition  
+- evaluating pricing expectations in different locations  
+- identifying gaps in the market for quick-service or street food options  
 
-what customers value or criticize in existing restaurant experiences
+Without structured data analysis, these decisions are often based on intuition rather than evidence.
 
-This lack of structured information makes it difficult to make informed decisions about where and how to enter the market. 
+---
 
-## Analytical Approach: 
-This project will use available datasets (such as Yelp and other supporting sources) to analyze restaurant performance, customer feedback, and market conditions in order to identify patterns and potential opportunities.
+## Analytical Approach
+
+This project combines two complementary data sources:
+
+- **Zomato dataset**  
+  Used to analyze restaurant competition, ratings, cuisine types, and pricing patterns.
+
+- **TomTom API**  
+  Used to identify high-traffic hubs such as metro stations and tech parks, representing potential customer flow.
+
+By combining these datasets, the project aims to identify areas where demand and opportunity intersect.
+
+---
 
 ## Data Sources
 
+- Zomato Restaurant Dataset (Kaggle)  
+- TomTom API (for high-traffic locations)
+
+---
 
 ## Methodology
 
+The project follows these main steps:
+
+1. Data Collection  
+   - Load Zomato dataset  
+   - Extract high-traffic hubs using API  
+
+2. Data Cleaning & Wrangling  
+   - Handle missing values  
+   - Clean pricing and rating columns  
+   - Standardize text data  
+   - Filter relevant restaurant categories  
+
+3. Data Analysis (EDA)  
+   - Analyze restaurant distribution by area  
+   - Evaluate competition density  
+   - Analyze pricing and ratings  
+   - Identify patterns in customer behavior  
+
+4. Data Combination  
+   - Merge restaurant data with traffic hubs  
+   - Aggregate data by area  
+
+5. Insight Generation  
+   - Identify high-opportunity zones  
+   - Detect gaps in the market  
+   - Evaluate trade-offs between competition and demand  
+
+---
 
 ## Insights
 
-## Conclusions
 
+
+---
+
+## Conclusions
