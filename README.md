@@ -1,4 +1,4 @@
-# indian-food-truck-market-analysis-bangalore
+# Indian food truck market analysis, Bangalore
 
 ## Data-driven analysis of restaurant competition and high-traffic areas in Bangalore to identify the best location for launching an Indian food truck.
 
