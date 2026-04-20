@@ -147,8 +147,6 @@ By using the **"Red Line" benchmark** (the city average for competition), we hav
 
 ## Conclusions
 
-## 🏁 Conclusion
-
 This project successfully proves that **Data Intelligence** is more effective than intuition for business expansion. By merging TomTom's demand hubs with Zomato’s supply data, we identified high-traffic "Market Deserts" where a food truck can operate with virtually **zero competition**. 
 
 Our final recommendation provides a low-risk, high-reward roadmap for launching in Bangalore’s tech corridors, ensuring the business is always positioned where the demand is highest and the competition is lowest.
