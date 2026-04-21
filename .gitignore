@@ -1,4 +1,18 @@
 # Byte-compiled / optimized / DLL files
+zomato.csv
+__MACOSX
+__MACOSX/
+.ipynb_checkpoints
+.ipynb_checkpoints/
+._.ipynb_checkpoints
+**/.ipynb_checkpoints
+**/._.ipynb_checkpoints
+**/.ipynb_checkpoints/
+.DS_Store
+._.DS_Store
+**/.DS_Store
+**/._.DS_Store
+**/.DS_Store/
 __pycache__/
 *.py[codz]
 *$py.class
