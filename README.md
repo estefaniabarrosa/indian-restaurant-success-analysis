@@ -11,7 +11,7 @@ This project aims to conduct a data-driven market research analysis to identify 
 The analysis combines structured restaurant data with location-based insights to understand market conditions, competition, and potential customer demand.
 
 The project focuses on Bangalore as a case study, leveraging real restaurant data and external APIs to evaluate where a food truck could succeed.
-https://trello.com/b/RphgO9qU/data-analysis-project
+
 
 Key factors analyzed include:
 
@@ -21,6 +21,9 @@ Key factors analyzed include:
 - High-traffic areas (e.g., metro stations, tech parks)  
 - Indicators of demand and consumer behavior  
 
+
+Here's the link explaining how we decided to create the project manager for our project:
+https://trello.com/b/RphgO9qU/data-analysis-project
 ---
 
 ## Goal
