@@ -74,11 +74,18 @@ This project combines two complementary data sources:
 By combining these datasets, the project aims to identify areas where demand and opportunity intersect.
 
 ---
+## Technologies Used
+
+* **Python**: Core language used for data wrangling and analysis.
+* **[TomTom Search API](https://developer.tomtom.com/search-api/documentation/product-information/introduction)**: Used for the `poiSearch` endpoint to identify Tech Parks and Metro Stations.
+* **Pandas**: For data cleaning, standardization, and joining datasets using neighborhood primary keys.
+* **Matplotlib/Seaborn**: Used to create the "Red Line" benchmark and visualize competition density.
+---
 
 ## Data Sources
 
 - Zomato Restaurant Dataset (Kaggle)  
-- TomTom API (for high-traffic locations)
+- [TomTom Search API](https://developer.tomtom.com/search-api/documentation/product-information/introduction): Used to identify and geocode high-traffic hubs (Metro Stations and Tech Parks) in Bangalore.
 
 ---
 
